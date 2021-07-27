@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /$
-Allow: /*.pdf$
+Allow: /phil/*.pdf$
 Disallow: /
-Host: phil.rigovanov.ru
+Host: rigovanov.github.io
 
-Sitemap: https://phil.rigovanov.ru/sitemap.xml
+Sitemap: https://rigovanov.github.io/phil/sitemap.xml
